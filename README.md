@@ -13,12 +13,7 @@
 -  I’m currently learning **Android App Development**
 
 
-### :fire: My Stats :
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Rajput-81&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
                                                                                                                                           
    
 
@@ -33,6 +28,11 @@
 <br>
  
                                                                                                                                           
-                                                                                                                                          
+                                                                                                                   ### :fire: My Stats :
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Rajput-81&show_icons=true&theme=radical#gh-dark-mode-only"/></td>                       
                             
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api username=Abhishek-Rajput-81&show_icons=true&locale=en" alt="Abhishek Rajput" /></p>
