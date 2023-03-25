@@ -2,21 +2,8 @@
    <img src=""https://readme-typing-svg.demolab.com?font=Russo+One&weight=600&size=50&pause=1000&center=true&width=550&height=120&lines=I'm+Abhishek+">
 </h1>
 
-
-                                                                                                                  
-
-
-                                                                                                                                          
-
-                                                                                                                                          
-                                                                                                                 - I’m a **Student**
-
+                                                                                           
 - I’m currently learning **Android App Development**
-
-
-
-                                                                                                                                          
-   
 
 
 
@@ -27,8 +14,8 @@
 <br>
  
 
-                                                                                                                 <h1> ### :fire: My Stats : </h1>
-
+                                                                                                                 
+### :fire: My Stats :
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
