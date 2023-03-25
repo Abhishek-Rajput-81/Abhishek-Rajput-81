@@ -35,11 +35,10 @@
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Rajput-81&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Rajput-81&show_icons=true&theme=white#gh-dark-mode-only"/></td>
+    
   
   </tr>
 </table>
                                                                                                                                           
                                                                                                                                        
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api username=Abhishek-Rajput-81&show_icons=true&locale=en" alt="Abhishek Rajput" /></p>
