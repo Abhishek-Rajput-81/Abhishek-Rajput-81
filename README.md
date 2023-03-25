@@ -9,9 +9,9 @@
                                                                                                                                           
 
                                                                                                                                           
-                                                                                                                 -  I’m a **Student**
+                                                                                                                 - I’m a **Student**
 
--  I’m currently learning **Android App Development**
+- I’m currently learning **Android App Development**
 
 
 
@@ -27,7 +27,7 @@
 <br>
  
 
-                                                                                                                                          ### :fire: My Stats :
+                                                                                                                 fire: My Stats :
 
 <table cellpadding="0">
   <tr style="padding: 0">
