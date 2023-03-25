@@ -27,7 +27,7 @@
 <br>
  
 
-                                                                                                                 fire: My Stats :
+                                                                                                                 <h1> ### fire: My Stats : </h1>
 
 <table cellpadding="0">
   <tr style="padding: 0">
