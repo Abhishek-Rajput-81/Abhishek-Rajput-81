@@ -25,8 +25,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Rajput-81&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
