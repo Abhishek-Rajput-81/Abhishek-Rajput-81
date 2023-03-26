@@ -2,8 +2,8 @@
    <img src=""https://readme-typing-svg.demolab.com?font=Russo+One&weight=600&size=50&pause=1000&center=true&width=550&height=120&lines=I'm+Abhishek+">
 </h1>
        
- <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-<br>                                                                                                                                       
+ <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<br>                                                                                                                                      
  
 ### :man_technologist: About Me :     
 <br>                                                                                                                                          
