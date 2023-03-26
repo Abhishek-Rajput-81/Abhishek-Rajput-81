@@ -5,14 +5,14 @@
                                                                                                                                           
                                                                                                                    <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Rajput-81&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
                                                                                                                                           
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-shrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-shrivastava" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Rajput-81&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-shrivastava" /> </p>
 
 
  <img align="center" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>                                                                                                                                      
  
 ### :man_technologist: About Me :     
-<br>                                                                                                                                          
+<br>                                                                                       
 -  I’m a **Student**                         
 - I’m currently learning **Android App Development**
 
