@@ -1,8 +1,11 @@
 <h1 align= "center">
    <img src=""https://readme-typing-svg.demolab.com?font=Russo+One&weight=600&size=50&pause=1000&center=true&width=550&height=120&lines=I'm+Abhishek+">
 </h1>
-       
- <img alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+  
+                                                                                                                                          
+                                                                                                                     <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Rajput-81&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
+
+ <img align="center" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>                                                                                                                                      
  
 ### :man_technologist: About Me :     
