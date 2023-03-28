@@ -8,7 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Rajput-81&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 
 
-<img align="center" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<!-- <img align="center" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
+
+<div id="header" align="center">
+  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" height = "300" width="400"/>
+</div>
 <br>  
 
 ### 👨‍💻: About Me :
