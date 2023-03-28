@@ -9,17 +9,18 @@
 
 
 <!-- <img align="center" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
-
+<!-- 
 <div id="header" align="right">
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" height = "300" width="400"/>
-</div>
+</div> -->
 
-<h3 align="left">### 👨‍💻: About Me :</h3>
 
-<h4 align="left">                                                                                       
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+
+<h3 align="left">### 👨‍💻: About Me :</h3>                                                                                      
 -  I’m a **Student**                         
 - I’m currently learning **Android App Development**
-</h3>
+
 
 
                                                                                                                                           
