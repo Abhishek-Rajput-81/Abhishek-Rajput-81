@@ -10,7 +10,7 @@
 
 <!-- <img align="center" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
 
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" height = "300" width="400"/>
 </div>
 <br>  
