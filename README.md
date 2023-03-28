@@ -9,8 +9,10 @@
 
 
 <img align ="centre" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<br>                                                                                                                                      
-### :man_technologist: About Me :                                                                                         
+<br>  
+
+### 👨‍💻: About Me :
+                                                                                         
 -  I’m a **Student**                         
 - I’m currently learning **Android App Development**
 
