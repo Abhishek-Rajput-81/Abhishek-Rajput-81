@@ -46,10 +46,10 @@
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Rajput-81&show_icons=true&theme=white#gh-dark-mode-only"/></td>
- 
+<!-- 
   <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/4640988/183823966-d59f0532-9746-425b-9367-d039ac24a144.gif" alt="quaddom" /> 
    
-  
+  -->
   </tr>
 </table>
 <!--  <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/4640988/183823966-d59f0532-9746-425b-9367-d039ac24a144.gif" alt="quaddom" /> 
