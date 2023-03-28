@@ -14,8 +14,8 @@
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" height = "300" width="400"/>
 </div>
 <br>  
+<h3 align="left">### 👨‍💻: About Me :</h3>
 
-### 👨‍💻: About Me :
                                                                                          
 -  I’m a **Student**                         
 - I’m currently learning **Android App Development**
