@@ -11,7 +11,7 @@
 <!-- <img align="center" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
 
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" height = "300" width="400"/>
+  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" height = "400" width="500"/>
 </div>
 <br>  
 
