@@ -17,7 +17,7 @@
 
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
-<h3 align="left">### 👨‍💻: About Me :</h3>   
+<h3 align="left"> 👨‍💻: About Me :</h3>   
 
 -  I’m a **Student**   
                       
