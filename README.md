@@ -8,6 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Rajput-81&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 
 
+
+
 <!-- <img align="center" alt="Coder GIF" height=300 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
 <!-- 
 <div id="header" align="right">
@@ -15,7 +17,10 @@
 </div> -->
 
 
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"> -->
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg">
+
 
 <h3 align="left"> 👨‍💻: About Me :</h3>   
 
