@@ -12,11 +12,11 @@
                       
 - I’m currently learning **Android App Development**
 
-- You can reach me at abhishekrajput4736@gmail.com
+- You can reach me at **abhishekrajput4736@gmail.com**
 
 <br>
 
-## 💻 Tech Stack:
+<h2>💻 Tech Stack:</h2>
 <p align="left">
   <a href="" target="_blank" rel="noreference">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,dart,flutter,html,css,javascript,mysql,markdown,git&perline=7" />
@@ -25,7 +25,7 @@
 <br>
 
   
-## 📊 Stats:
+<h2>📊 Stats:</h2>
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhishek-rajput-81&show_icons=true&hide_border=true&theme=react" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-rajput-81&hide_border=true&theme=react"/>
