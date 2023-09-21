@@ -1,12 +1,14 @@
 <h1 align="center">Hello, I'm Abhishek Rajput</h1>
-                                            
+ h2 {
+  color: white;
+}                                            
                                                                                                                                           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Rajput-81&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg">
 
-## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **About me**
+<h2><picture><img src = "./assets/about_me.gif" width = 50px></picture> About me </h2>
  
 -  I’m a **Student**   
                       
@@ -16,7 +18,7 @@
 
 <br>
 
-<h2>💻 Tech Stack:</h2>
+<h2> 💻 Tech Stack: </h2>
 <p align="left">
   <a href="" target="_blank" rel="noreference">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,dart,flutter,html,css,javascript,mysql,markdown,git&perline=7" />
@@ -25,7 +27,7 @@
 <br>
 
   
-<h2>📊 Stats:</h2>
+<h2>📊 Stats:</h2> 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhishek-rajput-81&show_icons=true&hide_border=true&theme=react" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-rajput-81&hide_border=true&theme=react"/>
