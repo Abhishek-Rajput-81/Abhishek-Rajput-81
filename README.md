@@ -18,7 +18,7 @@
 ## 💻 Tech Stack:
 <p align="left">
   <a href="" target="_blank" rel="noreference">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,dart,flutter,html,css,javascript,mysql,markdown,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,dart,flutter,html,css,javascript,mysql,markdown,git&perline=7" />
   </a>  
 </p>
 <br>
