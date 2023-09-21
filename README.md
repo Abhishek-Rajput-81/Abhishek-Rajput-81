@@ -1,6 +1,6 @@
-<h1 align= "center">
-   <img src="https://readme-typing-svg.demolab.com?font=Russo+One&weight=600&size=50&pause=1000&center=true&width=700&height=120&lines=I'm+Abhishek+">
-</h1>
+<h1 align="center">Hello, I'm Abhishek Rajput</h1>
+<!--    <img src="https://readme-typing-svg.demolab.com?font=Russo+One&weight=600&size=50&pause=1000&center=true&width=700&height=120&lines=I'm+Abhishek+"> -->
+<!-- </h1> -->
   
                                                                                                                                           
                                                                                                                    
@@ -29,20 +29,27 @@
 - I’m currently learning **Android App Development**
 
 
-
-                                                                                                                                          
+<!--## 💻 TECH STACK:-->
+## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **TECH STACK**
+<p align="center">
+  <a href="https://my-portfolio-website07.netlify.app/" target="_blank" rel="noreference">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,dart,flutter,html,css,javascript,mysql,markdown,git,&perline=6" />
+  </a>  
+</p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Pyhton" width="40" height="40"/> </a> 
-   
-   </p>
 
   
 </p>
 <br>
 <br>
 <br>
+### 📈 Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=abhishek-rajput-81&show_icons=true&hide_border=true&theme=holi" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-rajput-81&hide_border=true&theme=holi"/>
+  <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-rajput-81&theme=github_dark&show_icons=true&bg_color=0111111"> 
+</p>
  
 
                                                                                                                  
