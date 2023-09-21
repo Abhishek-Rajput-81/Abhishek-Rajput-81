@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Abhishek Rajput</h1>
- h2 {
-  color: white;
-}                                            
+
+                                           
                                                                                                                                           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Rajput-81&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 
